@@ -13,4 +13,4 @@
 ## Semilog plotted Graph
 ![WhatsApp Image 2025-12-04 at 13 16 26_86315cca](https://github.com/user-attachments/assets/48034faa-6995-475e-bcd5-ecf8a1432b47)
 
-![WhatsApp Image 2025-12-04 at 13 16 24_8771e97f](https://github.com/user-attachments/assets/c0fe62d7-16e9-4b7b-b088-2dc041dea6c2)
+<img width="1128" height="608" alt="image" src="https://github.com/user-attachments/assets/18c35bfb-b348-414d-9206-077ce91b00d4" />
